@@ -1,13 +1,5 @@
-# Define the MessageBox class
-Add-Type -TypeDefinition @"
-using System;
-using System.Windows.Forms;
-public class MessageBoxExample {
-    public static void ShowMessage() {
-        MessageBox.Show("Hello", "Message Box");
-    }
-}
-"@
+# Load the required assembly for Windows Forms
+Add-Type -AssemblyName System.Windows.Forms
 
-# Call the ShowMessage method to display the message box
-[MessageBoxExample]::ShowMessage()
+# Show the message box
+[System.Windows.Forms.MessageBox]::Show("Hello", "Message Box")
