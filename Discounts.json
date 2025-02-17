@@ -1,6 +1,6 @@
 {
-  "isDiscount": true,
-  "DiscountCode": "LMAO",
-  "DiscountAmount": "35"
+  "is_discount_active": true,
+  "discount_code": "LMAO",
+  "discount_amount": "35"
 }
 ﻿
