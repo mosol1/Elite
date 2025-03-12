@@ -11,9 +11,9 @@ if (!(Test-Path -Path "$86Path\Minecraft Java\GraalVM8") -and !(Test-Path -Path 
 	}
 	$GraalVMPath = "$86Path\Minecraft Java"
 	try {
- 		$webClient.DownloadFile("https://static.hone.gg/GraalVM8.zip", "$GraalVMPath\GraalVM8.zip") > $null
-		$webClient.DownloadFile("https://static.hone.gg/GraalVM17.zip", "$GraalVMPath\GraalVM17.zip") > $null
-  		$webClient.DownloadFile("https://static.hone.gg/GraalVM21.zip", "$GraalVMPath\GraalVM21.zip") > $null
+ 		$webClient.DownloadFile("https://elitetweaks.com/download/Minecraft/GraalVM8.zip", "$GraalVMPath\GraalVM8.zip") > $null
+		$webClient.DownloadFile("https://elitetweaks.com/download/Minecraft/GraalVM17.zip", "$GraalVMPath\GraalVM17.zip") > $null
+  		$webClient.DownloadFile("https://elitetweaks.com/download/Minecraft/GraalVM21.zip", "$GraalVMPath\GraalVM21.zip") > $null
 	} catch {
 	}
 	Expand-Archive -Path "$GraalVMPath\GraalVM8.zip" -DestinationPath $GraalVMPath -Force -ErrorAction SilentlyContinue
