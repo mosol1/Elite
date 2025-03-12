@@ -3,7 +3,7 @@ $webClient = New-Object System.Net.WebClient
 [System.Net.ServicePointManager]::ServerCertificateValidationCallback = {$true}
 $ProgramFilesPath = [System.Environment]::GetFolderPath('ProgramFiles')
 $86Path = [System.Environment]::GetFolderPath('ProgramFilesX86')
-$SED = "C:\Program Files (x86)\ElitePremiumUtility\resources\sed.dat"
+$SED = "C:\Program Files\EliteOptimizer\resources\sed.dat"
 $PathMinecraft = "$env:APPDATA\.Minecraft"
 if (!(Test-Path -Path "$86Path\Minecraft Java\GraalVM8") -and !(Test-Path -Path "$86Path\Minecraft Java\GraalVM17") -and !(Test-Path -Path "$86Path\Minecraft Java\GraalVM21") -and (Test-Path -Path "$pathminecraft\launcher_profiles.json")) {
 	if (!(Test-Path -Path "$86Path\Minecraft Java")) {
