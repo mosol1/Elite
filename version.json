@@ -1,7 +1,7 @@
 [
   {
     "appName": "ElitePcOptimizer",
-    "version": "v4.0",
+    "version": "4.0",
     "latestVersion": true,
     "description": "Elite is the latest version of our powerful app, providing top-tier performance and cutting-edge features.",
     "releaseDate": "2025-03-28",
@@ -15,7 +15,7 @@
   },
   {
     "appName": "ElitePcOptimizer",
-    "version": "v3.9",
+    "version": "3.9",
     "description": "Elite is the previous version of our powerful app, providing top-tier performance and cutting-edge features.",
     "releaseDate": "2024-12-15",
     "features": [
