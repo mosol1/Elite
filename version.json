@@ -5,12 +5,16 @@
     "latestVersion": true,
     "description": "Elite is the latest version of our powerful app, providing top-tier performance and cutting-edge features.",
     "releaseDate": "2025-03-28",
-    "features": [
-      "Enhanced User Interface",
-      "Bug Fixes and Performance Improvements",
+    "newFeatures": [
       "Advanced Security Features",
       "Real-time Synchronization",
       "Support for Multiple Platforms"
+    ],
+    "improvements": [
+      "Enhanced User Interface"
+    ],
+    "bugFixes": [
+      "Bug Fixes and Performance Improvements"
     ]
   },
   {
@@ -18,12 +22,16 @@
     "version": "v3.9",
     "description": "Elite is the previous version of our powerful app, providing top-tier performance and cutting-edge features.",
     "releaseDate": "2024-12-15",
-    "features": [
-      "Enhanced User Interface",
-      "Bug Fixes and Performance Improvements",
+    "newFeatures": [
       "Advanced Security Features",
       "Real-time Synchronization",
       "Support for Multiple Platforms"
+    ],
+    "improvements": [
+      "Enhanced User Interface"
+    ],
+    "bugFixes": [
+      "Bug Fixes and Performance Improvements"
     ]
   }
 ]
