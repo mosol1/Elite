@@ -1,0 +1,490 @@
+[
+    {
+        "id": "Clipchamp.Clipchamp",
+        "description": "Clipchamp video editing software"
+    },
+    {
+        "id": "Microsoft.3DBuilder",
+        "description": "3D Builder app for creating and printing 3D models"
+    },
+    {
+        "id": "Microsoft.549981C3F5F10",
+        "description": "Cortana virtual assistant app"
+    },
+    {
+        "id": "Microsoft.BingFinance",
+        "description": "Bing Finance app for financial news and information"
+    },
+    {
+        "id": "Microsoft.BingFoodAndDrink",
+        "description": "Bing Food & Drink app for recipes and dining information"
+    },
+    {
+        "id": "Microsoft.BingHealthAndFitness",
+        "description": "Bing Health & Fitness app for health and wellness information"
+    },
+    {
+        "id": "Microsoft.BingNews",
+        "description": "Bing News app for news and current events"
+    },
+    {
+        "id": "Microsoft.BingSports",
+        "description": "Bing Sports app for sports news and updates"
+    },
+    {
+        "id": "Microsoft.BingTranslator",
+        "description": "Bing Translator app for language translation"
+    },
+    {
+        "id": "Microsoft.BingTravel",
+        "description": "Bing Travel app for travel information and planning"
+    },
+    {
+        "id": "Microsoft.BingWeather",
+        "description": "Bing Weather app for weather forecasts and updates"
+    },
+    {
+        "id": "Microsoft.Getstarted",
+        "description": "Get Started app for Windows tips and tutorials (Cannot be uninstalled in Windows 11)"
+    },
+    {
+        "id": "Microsoft.Messaging",
+        "description": "Messaging app for SMS and messaging"
+    },
+    {
+        "id": "Microsoft.Microsoft3DViewer",
+        "description": "3D Viewer app for viewing 3D models"
+    },
+    {
+        "id": "Microsoft.MicrosoftJournal",
+        "description": "Microsoft Journal app for note-taking and journaling"
+    },
+    {
+        "id": "Microsoft.MicrosoftOfficeHub",
+        "description": "Microsoft Office Hub for accessing Office apps and services"
+    },
+    {
+        "id": "Microsoft.MicrosoftPowerBIForWindows",
+        "description": "Power BI app for business analytics"
+    },
+    {
+        "id": "Microsoft.MicrosoftSolitaireCollection",
+        "description": "Microsoft Solitaire Collection for playing classic card games"
+    },
+    {
+        "id": "Microsoft.MicrosoftStickyNotes",
+        "description": "Sticky Notes app for creating and managing notes"
+    },
+    {
+        "id": "Microsoft.MixedReality.Portal",
+        "description": "Mixed Reality Portal for setting up and using Windows Mixed Reality"
+    },
+    {
+        "id": "Microsoft.NetworkSpeedTest",
+        "description": "Network Speed Test app for testing internet speed"
+    },
+    {
+        "id": "Microsoft.News",
+        "description": "Microsoft News app for news and current events"
+    },
+    {
+        "id": "Microsoft.Office.OneNote",
+        "description": "OneNote app for note-taking and organization"
+    },
+    {
+        "id": "Microsoft.Office.Sway",
+        "description": "Sway app for creating and sharing interactive reports and presentations"
+    },
+    {
+        "id": "Microsoft.OneConnect",
+        "description": "OneConnect app for managing network connections"
+    },
+    {
+        "id": "Microsoft.Print3D",
+        "description": "Print 3D app for 3D printing"
+    },
+    {
+        "id": "Microsoft.SkypeApp",
+        "description": "Skype app for communication and video calls"
+    },
+    {
+        "id": "Microsoft.Todos",
+        "description": "Microsoft To Do app for task management"
+    },
+    {
+        "id": "Microsoft.WindowsAlarms",
+        "description": "Alarms & Clock app for setting alarms and timers"
+    },
+    {
+        "id": "Microsoft.WindowsFeedbackHub",
+        "description": "Feedback Hub for providing feedback to Microsoft"
+    },
+    {
+        "id": "Microsoft.WindowsMaps",
+        "description": "Maps app for navigation and location services"
+    },
+    {
+        "id": "Microsoft.WindowsSoundRecorder",
+        "description": "Voice Recorder app for recording audio"
+    },
+    {
+        "id": "Microsoft.XboxApp",
+        "description": "Old Xbox Console Companion App (no longer supported)"
+    },
+    {
+        "id": "Microsoft.ZuneVideo",
+        "description": "Zune Video app for media playback"
+    },
+    {
+        "id": "MicrosoftCorporationII.MicrosoftFamily",
+        "description": "Family Safety app for managing family settings"
+    },
+    {
+        "id": "MicrosoftCorporationII.QuickAssist",
+        "description": "Quick Assist app for remote assistance"
+    },
+    {
+        "id": "MicrosoftTeams",
+        "description": "Old Microsoft Teams personal app (MS Store)"
+    },
+    {
+        "id": "MSTeams",
+        "description": "New Microsoft Teams app"
+    },
+    {
+        "id": "ACGMediaPlayer",
+        "description": "ACG Media Player for media playback"
+    },
+    {
+        "id": "ActiproSoftwareLLC",
+        "description": "Actipro Software"
+    },
+    {
+        "id": "AdobeSystemsIncorporated.AdobePhotoshopExpress",
+        "description": "Adobe Photoshop Express for photo editing"
+    },
+    {
+        "id": "Amazon.com.Amazon",
+        "description": "Amazon shopping app"
+    },
+    {
+        "id": "AmazonVideo.PrimeVideo",
+        "description": "Amazon Prime Video app for streaming"
+    },
+    {
+        "id": "Asphalt8Airborne",
+        "description": "Asphalt 8: Airborne racing game"
+    },
+    {
+        "id": "AutodeskSketchBook",
+        "description": "Autodesk SketchBook for digital drawing"
+    },
+    {
+        "id": "CaesarsSlotsFreeCasino",
+        "description": "Caesars Slots Free Casino game"
+    },
+    {
+        "id": "COOKINGFEVER",
+        "description": "Cooking Fever game"
+    },
+    {
+        "id": "CyberLinkMediaSuiteEssentials",
+        "description": "CyberLink Media Suite Essentials for media editing"
+    },
+    {
+        "id": "DisneyMagicKingdoms",
+        "description": "Disney Magic Kingdoms game"
+    },
+    {
+        "id": "Disney",
+        "description": "Disney app for Disney content"
+    },
+    {
+        "id": "DrawboardPDF",
+        "description": "Drawboard PDF for PDF editing and annotation"
+    },
+    {
+        "id": "Duolingo-LearnLanguagesforFree",
+        "description": "Duolingo app for language learning"
+    },
+    {
+        "id": "EclipseManager",
+        "description": "Eclipse Manager for managing Eclipse projects"
+    },
+    {
+        "id": "Facebook",
+        "description": "Facebook app for social networking"
+    },
+    {
+        "id": "FarmVille2CountryEscape",
+        "description": "FarmVille 2: Country Escape game"
+    },
+    {
+        "id": "fitbit",
+        "description": "Fitbit app for fitness tracking"
+    },
+    {
+        "id": "Flipboard",
+        "description": "Flipboard app for news and content aggregation"
+    },
+    {
+        "id": "HiddenCity",
+        "description": "Hidden City game"
+    },
+    {
+        "id": "HULULLC.HULUPLUS",
+        "description": "Hulu Plus app for streaming"
+    },
+    {
+        "id": "iHeartRadio",
+        "description": "iHeartRadio app for music and radio"
+    },
+    {
+        "id": "Instagram",
+        "description": "Instagram app for social networking"
+    },
+    {
+        "id": "king.com.BubbleWitch3Saga",
+        "description": "Bubble Witch 3 Saga game"
+    },
+    {
+        "id": "king.com.CandyCrushSaga",
+        "description": "Candy Crush Saga game"
+    },
+    {
+        "id": "king.com.CandyCrushSodaSaga",
+        "description": "Candy Crush Soda Saga game"
+    },
+    {
+        "id": "LinkedInforWindows",
+        "description": "LinkedIn app for professional networking"
+    },
+    {
+        "id": "MarchofEmpires",
+        "description": "March of Empires game"
+    },
+    {
+        "id": "Netflix",
+        "description": "Netflix app for streaming"
+    },
+    {
+        "id": "NYTCrossword",
+        "description": "NYT Crossword game"
+    },
+    {
+        "id": "OneCalendar",
+        "description": "OneCalendar app for managing calendars"
+    },
+    {
+        "id": "PandoraMediaInc",
+        "description": "Pandora app for music streaming"
+    },
+    {
+        "id": "PhototasticCollage",
+        "description": "Phototastic Collage app for photo editing"
+    },
+    {
+        "id": "PicsArt-PhotoStudio",
+        "description": "PicsArt Photo Studio for photo editing"
+    },
+    {
+        "id": "Plex",
+        "description": "Plex app for media streaming"
+    },
+    {
+        "id": "PolarrPhotoEditorAcademicEdition",
+        "description": "Polarr Photo Editor for photo editing"
+    },
+    {
+        "id": "Royal Revolt",
+        "description": "Royal Revolt game"
+    },
+    {
+        "id": "Shazam",
+        "description": "Shazam app for music recognition"
+    },
+    {
+        "id": "Sidia.LiveWallpaper",
+        "description": "Sidia Live Wallpaper app"
+    },
+    {
+        "id": "SlingTV",
+        "description": "Sling TV app for streaming"
+    },
+    {
+        "id": "Spotify",
+        "description": "Spotify app for music streaming"
+    },
+    {
+        "id": "TikTok",
+        "description": "TikTok app for short-form video content"
+    },
+    {
+        "id": "TuneInRadio",
+        "description": "TuneIn Radio app for radio streaming"
+    },
+    {
+        "id": "Twitter",
+        "description": "Twitter app for social networking"
+    },
+    {
+        "id": "Viber",
+        "description": "Viber app for communication"
+    },
+    {
+        "id": "WinZipUniversal",
+        "description": "WinZip Universal app for file compression"
+    },
+    {
+        "id": "Wunderlist",
+        "description": "Wunderlist app for task management"
+    },
+    {
+        "id": "XING",
+        "description": "XING app for professional networking"
+    },
+    {
+        "id": "Microsoft.BingSearch",
+        "description": "Bing Search integration for Windows Search"
+    },
+    {
+        "id": "Microsoft.Copilot",
+        "description": "Windows Copilot app"
+    },
+    {
+        "id": "Microsoft.Edge",
+        "description": "Microsoft Edge browser (Can only be uninstalled in European Economic Area)"
+    },
+    {
+        "id": "Microsoft.GetHelp",
+        "description": "Get Help app for Windows troubleshooting"
+    },
+    {
+        "id": "Microsoft.MSPaint",
+        "description": "Paint 3D app"
+    },
+    {
+        "id": "Microsoft.OneDrive",
+        "description": "OneDrive app for cloud storage"
+    },
+    {
+        "id": "Microsoft.Paint",
+        "description": "Classic Paint app"
+    },
+    {
+        "id": "Microsoft.ScreenSketch",
+        "description": "Snipping Tool app for screenshots"
+    },
+    {
+        "id": "Microsoft.Whiteboard",
+        "description": "Whiteboard app for collaborative drawing (Preinstalled on devices with touchscreen/pen support)"
+    },
+    {
+        "id": "Microsoft.Windows.Photos",
+        "description": "Photos app for viewing and editing images"
+    },
+    {
+        "id": "Microsoft.WindowsCalculator",
+        "description": "Calculator app"
+    },
+    {
+        "id": "Microsoft.WindowsCamera",
+        "description": "Camera app"
+    },
+    {
+        "id": "Microsoft.WindowsNotepad",
+        "description": "Notepad app"
+    },
+    {
+        "id": "Microsoft.WindowsStore",
+        "description": "Microsoft Store app (WARNING: Cannot be reinstalled)"
+    },
+    {
+        "id": "Microsoft.WindowsTerminal",
+        "description": "Windows Terminal app"
+    },
+    {
+        "id": "Microsoft.Xbox.TCUI",
+        "description": "Xbox UI framework (Required for MS Store, Photos, and certain games)"
+    },
+    {
+        "id": "Microsoft.XboxIdentityProvider",
+        "description": "Xbox sign-in framework (Required for some games)"
+    },
+    {
+        "id": "Microsoft.XboxSpeechToTextOverlay",
+        "description": "Xbox Speech-to-Text Overlay (WARNING: Cannot be reinstalled)"
+    },
+    {
+        "id": "Microsoft.YourPhone",
+        "description": "Your Phone app for phone integration"
+    },
+    {
+        "id": "Microsoft.ZuneMusic",
+        "description": "Zune Music app for media playback"
+    },
+    {
+        "id": "MicrosoftWindows.CrossDevice",
+        "description": "Cross-device integration for File Explorer, Camera, and more"
+    },
+    {
+        "id": "Microsoft.GamingApp",
+        "description": "Xbox Gaming App for PC games"
+    },
+    {
+        "id": "Microsoft.OutlookForWindows",
+        "description": "Outlook for Windows app"
+    },
+    {
+        "id": "Microsoft.People",
+        "description": "People app for contacts (Included with Mail & Calendar)"
+    },
+    {
+        "id": "Microsoft.PowerAutomateDesktop",
+        "description": "Power Automate Desktop for automation"
+    },
+    {
+        "id": "Microsoft.RemoteDesktop",
+        "description": "Remote Desktop app"
+    },
+    {
+        "id": "Microsoft.Windows.DevHome",
+        "description": "Dev Home app for developers"
+    },
+    {
+        "id": "Microsoft.windowscommunicationsapps",
+        "description": "Mail & Calendar app"
+    },
+    {
+        "id": "Microsoft.XboxGameOverlay",
+        "description": "Xbox Game Overlay for gaming"
+    },
+    {
+        "id": "Microsoft.XboxGamingOverlay",
+        "description": "Xbox Gaming Overlay for gaming"
+    },
+    {
+        "id": "AD2F1837.HPSystemInformation",
+        "description": "HP System Information app for system information"
+    },
+    {
+        "id": "AppUp.IntelGraphicsExperience",
+        "description": "Intel Graphics Command Center"
+    },  
+    {
+        "id": "Microsoft.HEIFImageExtension",
+        "description": "HEIF Image Extensions"
+    }, 
+    {
+        "id": "Microsoft.HEVCVideoExtension",
+        "description": "HEVC Video Extensions from the Device Manufacturer"
+    }, 
+    {
+        "id": "Microsoft.RawImageExtension",
+        "description": "Raw Image Extension"
+    }, 
+    {
+        "id": "Microsoft.SecHealthUI",
+        "description": "Windows Security"
+    }
+]
