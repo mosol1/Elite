@@ -1,8 +1,23 @@
 [
   {
     "appName": "ElitePcOptimizer",
-    "version": "v4.0",
+    "version": "v4.1",
     "latestVersion": true,
+    "description": "Elite Optimizer Bug Fixes",
+    "releaseDate": "2025-03-28",
+    "newFeatures": [
+      "BUGS FIXED"
+    ],
+    "improvements": [
+      "BUGS FIXED"
+    ],
+    "bugFixes": [
+      "BUGS FIXED"
+    ]
+  },
+  {
+    "appName": "ElitePcOptimizer",
+    "version": "v4.0",
     "description": "Elite Optimizer, REVAMP, 6+ Months of development [Solo Full-stack Dev]",
     "releaseDate": "2025-03-28",
     "newFeatures": [
