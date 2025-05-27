@@ -3,12 +3,16 @@
     "appName": "ElitePcOptimizer",
     "version": "v4.0",
     "latestVersion": true,
-    "description": "Elite is the latest version of our powerful app, providing top-tier performance and cutting-edge features.",
+    "description": "Elite Optimizer, REVAMP, 6+ Months of development [Solo Full-stack Dev]",
     "releaseDate": "2025-03-28",
     "newFeatures": [
-      "Advanced Security Features",
-      "Real-time Synchronization",
-      "Support for Multiple Platforms"
+      "Advanced Security Features [A2DProtector]",
+      "250+ New Optimizations",
+      "Fully Revamped, Python, C#, C++, Rust, GoLang, Javascript, CSS,...",
+      "New Exclusive Plan",
+      "New GameMode Feature",
+      "New API"
+      ""
     ],
     "improvements": [
       "Enhanced User Interface"
@@ -19,19 +23,47 @@
   },
   {
     "appName": "ElitePcOptimizer",
-    "version": "v3.9",
-    "description": "Elite is the previous version of our powerful app, providing top-tier performance and cutting-edge features.",
-    "releaseDate": "2024-12-15",
+    "version": "v3",
+    "description": "IMPROVED OPTIMIZATIONS & Security",
+    "releaseDate": "2024-11-10",
     "newFeatures": [
-      "Advanced Security Features",
-      "Real-time Synchronization",
-      "Support for Multiple Platforms"
+      "+45 Premium FPS Optimizations",
+      "+2 Latency Optimizations",
+      "Elite Powerplan v9",
+      "Optimizations Filter Tabview"
     ],
     "improvements": [
       "Enhanced User Interface"
     ],
     "bugFixes": [
-      "Bug Fixes and Performance Improvements"
+      "FIxed ServerBooster Access",
+      "Improved backend Database Security",
+      "Fixed Roblox Path not found error",
+      "Fixed 60 Fps Cap on fortnite",
+      "Fixed Overwatch Config settings",
+      "Fixed Can't go Back Home"
     ]
-  }
+  },
+  {
+    "appName": "ElitePcOptimizer",
+    "version": "v2",
+    "description": "OFFICIAL RELEASE OF ELITE",
+    "releaseDate": "2024-10-15",
+    "newFeatures": [
+      "50 FPS Optimizations",
+      "15 Latency Optimizations",
+      "30 Processor Optimizations",
+      "10 Network Optimizations"
+    ],
+    "improvements": [
+      "Added Network Tweaks Section",
+      "Improved the PC Cleaner",
+      "Added Virus/malware Scan",
+      "Improved the Backend",
+      "Fixed Authentication Bugs"
+    ],
+    "bugFixes": [
+      "Roblox - Path Not Found Error",
+    ]
+  },
 ]
